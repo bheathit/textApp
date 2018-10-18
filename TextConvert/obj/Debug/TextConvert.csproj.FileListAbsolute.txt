@@ -1,0 +1,7 @@
+C:\Users\benjamin.heath\Desktop\TextApp\TextConvert\TextConvert\bin\Debug\TextConvert.exe.config
+C:\Users\benjamin.heath\Desktop\TextApp\TextConvert\TextConvert\bin\Debug\TextConvert.exe
+C:\Users\benjamin.heath\Desktop\TextApp\TextConvert\TextConvert\bin\Debug\TextConvert.pdb
+C:\Users\benjamin.heath\Desktop\TextApp\TextConvert\TextConvert\obj\Debug\TextConvert.csprojAssemblyReference.cache
+C:\Users\benjamin.heath\Desktop\TextApp\TextConvert\TextConvert\obj\Debug\TextConvert.csproj.CoreCompileInputs.cache
+C:\Users\benjamin.heath\Desktop\TextApp\TextConvert\TextConvert\obj\Debug\TextConvert.exe
+C:\Users\benjamin.heath\Desktop\TextApp\TextConvert\TextConvert\obj\Debug\TextConvert.pdb
